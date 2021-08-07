@@ -26,8 +26,8 @@ public class MainActivity extends AppCompatActivity {
     ImageView addButton;
     TaskManager taskManager;
     DarkModeManager darkModeManager;
-    SoundPool soundPool;
 
+    SoundPool soundPool;
     int soundIdAdded;
     int soundIdRemoved;
 
