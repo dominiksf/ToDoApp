@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_task_hint">New task</string>
+    <string name="toast_name_empty">No name entered</string>
+    <string name="dark_mode">Reset all tasks</string>
+    <string name="clear_all">Reset all tasks</string>
+    <string name="alphabetical">sort in alphabetical order</string>
+</resources>

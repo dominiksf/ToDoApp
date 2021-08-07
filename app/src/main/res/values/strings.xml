@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">ToDo\'s</string>
+    <string name="new_task_hint">Neue Aufgabe</string>
+    <string name="toast_name_empty">Kein Name vergeben </string>
+    <string name="dark_mode">dunkles Design</string>
+    <string name="clear_all">Aufgaben zurücksetzen</string>
+    <string name="alphabetical">alphabetisch sortieren</string>
+</resources>

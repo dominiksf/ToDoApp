@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/abc"
+        android:title="@string/alphabetical"
+        android:icon="@mipmap/alphabetical"
+        app:showAsAction="always"
+        >
+    </item>
+
+    <item
+        android:id="@+id/dark_mode"
+        android:title="Design wechseln"
+        android:icon="@mipmap/dark_mode"
+        app:showAsAction="collapseActionView"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/share"
+        android:title="Aufgaben teilen"
+        android:icon="@mipmap/share"
+        app:showAsAction="always"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/clear_all"
+        android:title="@string/clear_all"
+        android:icon="@mipmap/clear_all"
+        app:showAsAction="collapseActionView"
+        >
+
+    </item>
+
+</menu>
